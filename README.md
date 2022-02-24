@@ -1,2 +1,2 @@
-# csie-dl
+# CSIE DL
 CCU course
