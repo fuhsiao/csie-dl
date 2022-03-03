@@ -1,3 +1,7 @@
 *.md
 
 .ipynb_checkpoints/
+
+~$*.ppt*
+
+*.pptx
